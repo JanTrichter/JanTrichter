@@ -2,6 +2,7 @@
 
 ### 📝 I am currently learning:
 - Docker 🐳
+- Tailwind CSS 🌊
 
 ### ♥️ My favourite technologies:
 - Svelte and Angular
