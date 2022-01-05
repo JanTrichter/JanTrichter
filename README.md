@@ -4,14 +4,14 @@
 - Docker 🐳
 - Tailwind CSS 🌊
 
-### ♥️ My favourite technologies:
+### ♥️ My technologies:
 - Svelte (3+)
 - Angular (2+)
 - .Net 5+ / Core
 - Unity 🎮
 - GitHub Actions 🚀
 
-### 💙 My favourite programming languages:
+### 💙 My programming languages:
 - C# #️⃣
 - JavaScript 📜
 - TypeScript 💉📜
