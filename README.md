@@ -2,7 +2,7 @@
 
 ### 📝 I am currently learning:
 - Docker 🐳
-- Tailwind CSS 🌊
+- MongoDB 🍃
 
 ### Technologies:
 - Svelte (3+)
