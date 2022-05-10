@@ -3,6 +3,7 @@
 ### 📝 I am currently learning:
 - Docker 🐳
 - MongoDB 🍃
+- Vue 3
 
 ### Technologies:
 - Svelte (3+)
