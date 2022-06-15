@@ -1,5 +1,7 @@
 ## Hello There 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JanTrichter)](https://github.com/anuraghazra/github-readme-stats)
+
 ### 📝 I am currently learning:
 - Docker 🐳
 - MongoDB 🍃
