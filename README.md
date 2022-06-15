@@ -1,7 +1,5 @@
 ## Hello There 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanTrichter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ### 📝 I am currently learning:
 - Docker 🐳
 - MongoDB 🍃
@@ -22,3 +20,7 @@
 ### And here is a cute cat GIF just for the record:
 
 <img width="200" alt="Cute cat gif" src="https://user-images.githubusercontent.com/72730682/128785033-634cb3f1-8285-4188-8c9d-e2de8c2f7a27.gif">
+
+### Stats'n stuff
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanTrichter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
