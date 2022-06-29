@@ -4,6 +4,7 @@
 - Docker 🐳
 - MongoDB 🍃
 - Vue 3
+- Go 💙
 
 ### Technologies:
 - Svelte (3+)
