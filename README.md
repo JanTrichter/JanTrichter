@@ -1,17 +1,15 @@
 ## Hello There 👋
 
 ### 📝 I am currently learning:
-- Docker 🐳
-- MongoDB 🍃
-- Vue 3
 - Go 💙
 
 ### Technologies:
-- Svelte (3+)
-- Angular (2+)
-- .Net 5+ / Core
-- Unity 🎮
+- Svelte (3+) 🧡
+- Angular (2+) 🔴
+- Vue3 / Nuxt3 🟢
+- .Net 5+ / Core 💜
 - GitHub Actions 🚀
+- Docker 🐳
 
 ### Programming languages:
 - C# #️⃣
