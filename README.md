@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=svelte,dotnet,angular,tailwind)](https://skillicons.dev)
 
 #### Programmes && Misc
-[![My Skills](https://skillicons.dev/icons?i=azure,github,githubactions,docker,linux,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,github,githubactions,docker,linux,git,figma)](https://skillicons.dev)
 
 ### Stats'n stuff
 
